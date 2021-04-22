@@ -114,6 +114,7 @@ body {
     padding: 2em;
     font-size: 1.25em;
     height: 100%;
+    background-color: #286DA8;
 }
 
 .wrapper {
@@ -130,12 +131,14 @@ body {
     color: #fff;
     line-height: 1.5em;
     font-size: 1.6em;
-    background-color: #f16059;
+    background-color: #438496;
     height: 300px;
     width: 30%;
     display: flex;
     justify-content: center;
     align-items: center;
+    border: 5px solid #CD5360;
+    padding: 15px;
 }
 
 
